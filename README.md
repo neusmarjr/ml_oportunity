@@ -2,6 +2,7 @@
 
 ## INSTRUÇÕES:
 * Os arquivos referentes às soluções estão nas pastas do repositório, cujo nome indica qual o exercício referente.
+* As bases de dados não estão disponíveis nesse repositório, e devem ser carregadas dentro de uma pasta `/exercise_*/data/` (cada base no pasta respectiva ao exercício)
 * Os fluxos das soluções estão completos em formato `.ipynb`, dentro das pastas `/exercise_*/notebooks/`
 * Cada exercício contém seu próprio arquivo `requirements.txt` que deverá ser utilizado para criação do ambiente responsável pela execução dos notebooks.
 
